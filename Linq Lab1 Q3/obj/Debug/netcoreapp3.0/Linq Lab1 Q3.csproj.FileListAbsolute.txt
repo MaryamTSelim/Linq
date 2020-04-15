@@ -1,0 +1,11 @@
+C:\Users\maryam\Desktop\Linq Lab1 Q3\Linq Lab1 Q3\bin\Debug\netcoreapp3.0\Linq Lab1 Q3.exe
+C:\Users\maryam\Desktop\Linq Lab1 Q3\Linq Lab1 Q3\bin\Debug\netcoreapp3.0\Linq Lab1 Q3.deps.json
+C:\Users\maryam\Desktop\Linq Lab1 Q3\Linq Lab1 Q3\bin\Debug\netcoreapp3.0\Linq Lab1 Q3.runtimeconfig.json
+C:\Users\maryam\Desktop\Linq Lab1 Q3\Linq Lab1 Q3\bin\Debug\netcoreapp3.0\Linq Lab1 Q3.runtimeconfig.dev.json
+C:\Users\maryam\Desktop\Linq Lab1 Q3\Linq Lab1 Q3\bin\Debug\netcoreapp3.0\Linq Lab1 Q3.dll
+C:\Users\maryam\Desktop\Linq Lab1 Q3\Linq Lab1 Q3\bin\Debug\netcoreapp3.0\Linq Lab1 Q3.pdb
+C:\Users\maryam\Desktop\Linq Lab1 Q3\Linq Lab1 Q3\obj\Debug\netcoreapp3.0\Linq Lab1 Q3.csprojAssemblyReference.cache
+C:\Users\maryam\Desktop\Linq Lab1 Q3\Linq Lab1 Q3\obj\Debug\netcoreapp3.0\Linq Lab1 Q3.AssemblyInfoInputs.cache
+C:\Users\maryam\Desktop\Linq Lab1 Q3\Linq Lab1 Q3\obj\Debug\netcoreapp3.0\Linq Lab1 Q3.AssemblyInfo.cs
+C:\Users\maryam\Desktop\Linq Lab1 Q3\Linq Lab1 Q3\obj\Debug\netcoreapp3.0\Linq Lab1 Q3.dll
+C:\Users\maryam\Desktop\Linq Lab1 Q3\Linq Lab1 Q3\obj\Debug\netcoreapp3.0\Linq Lab1 Q3.pdb
